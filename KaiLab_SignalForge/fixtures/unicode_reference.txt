@@ -1,0 +1,1 @@
+Emoji variation selectors and invisible INV1 test payload can be generated using the Unicode lab Load sample button.
