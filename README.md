@@ -2,7 +2,6 @@
 
 **An offline, browser-based research laboratory for image formats, procedural graphics, compression benchmarking, Unicode steganography and binary-file inspection.**
 
-![SIGNALFORGE dashboard](screenshots/desktop.png)
 
 KaiLab SIGNALFORGE is a self-contained experimental workbench developed to investigate unusual file formats, digital rendering behaviour, hidden Unicode messages and compression artefacts.
 
